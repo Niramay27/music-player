@@ -1,7 +1,8 @@
 # music player
 
-I made a music player which plays songs that are downloaded on your local pc. The web page looks similar to spotify with fewer features. 
-In this project, I have used html,css and javascript.
+Welcome to the Music Player repository! This project is a web application designed for playing and managing your music collection. It offers a clean and user-friendly interface, making it easy for users to enjoy their favorite tracks.
+
+Life is simple := PLAY PAUSE FORWARD BACKWARDS ENJOY 
 
 The page layout is simple html with designs made using css and added functionalities with javascript.
 
@@ -17,7 +18,10 @@ songs.html -- the html page with list of songs from your local pc.
 
 The other files in the folder are the images required for the page. 
 
-You can run the code by cloning the files in you pc. 
+To run this project locally, follow these steps:
+1. Clone the repository: git clone https://github.com/Niramay27/music-player.git
+2. Navigate to the project directory
+3. Go Live on the index.html page.
 
 IMPORTANT: replace my local address of the songs html page to YOUR local address where songs.html loads. 
 
