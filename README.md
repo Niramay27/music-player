@@ -5,7 +5,7 @@ In this project, I have used html,css and javascript.
 
 The page layout is simple html with designs made using css and added functionalities with javascript.
 
-The folder : music_player contains the files of the project. 
+The folder : spotify contains the files of the project. 
 
 index.html -- the layout page with html. 
 
